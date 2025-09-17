@@ -74,13 +74,13 @@ insights into sales trends, profit, promotions, and product performance, serving
    ![Transaction Table](./Table%20visual.png)
    This page displays detailed transaction-level data in an interactive table.
    
-   ####a. Filters
+   #### a. Filters
      - Date → Filter transactions by time period.
      - Customer Name → View transactions by customer.
      - Product Name → Filter based on product type.
      - Promotion Name → Analyze transactions under specific promotions.
 
-   ####b. Table Columns
+   #### b. Table Columns
      - CustomerID, Order ID, Product ID, Promotion ID
      - Date (dd/mm/yyyy)
      - Discount, Discount Percentage
