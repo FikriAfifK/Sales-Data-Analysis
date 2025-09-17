@@ -1,9 +1,11 @@
-📊 Sales Data Analysis Dashboard
+# 📊 Sales Data Analysis Dashboard
 
 This dashboard was developed using Power BI to analyze product sales data from 2020 to 2024. Its main purpose is to provide comprehensive 
 insights into sales trends, profit, promotions, and product performance, serving as a decision-support tool for business strategies.
 
-🚀 Features & Requirements
+---
+
+## 🚀 Features & Requirements
 
 1. Top/Bottom 5 Products
    - By Sales, Profit, and Quantity Sold.
@@ -24,11 +26,15 @@ insights into sales trends, profit, promotions, and product performance, serving
 8. Geographical Analysis
    - Sales breakdown by different cities (map visualization).
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 - Power BI (DAX) → Interactive dashboards & visualization
 
-📈 Dashboard Preview & Explanation
-1. Page 1 – Sales Overview
+---
+
+## 📈 Dashboard Preview & Explanation
+### 1. Page 1 – Sales Overview
    ![Sales Overview](./Overview.png)
    This page provides a general overview of sales performance:
    - Sales by City → Interactive map showing sales distribution across major cities.
@@ -39,7 +45,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    
    👉 Insight: The Weekend Flash Sale promotion had the most significant impact on boosting sales.
 
-2. Page 2 – Top & Bottom 5 Products
+### 2. Page 2 – Top & Bottom 5 Products
    ![Top & Bottom 5 Products](./Top_Bottom%205%20Analysis.png)
    This page highlights best and worst performing products:
    - Top 5 Products by Sales, Quantity, Profit → Highest performing products.
@@ -49,7 +55,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    - Apple iPhone 14 dominates in sales, quantity, and profit.
    - Products like Tupperware Lunch Box and Nivea Body Lotion consistently appear among the bottom performers.
 
-4. Page 3 & 4 – Comparison: Sales, Profit, Quantity
+### 3. Page 3 & 4 – Comparison: Sales, Profit, Quantity
    This page provides a comparison of key sales metrics:
    - Date Filters → Two date slicers to compare performance across different time periods.
    - Total Sales, Total Profit, Total Quantity Sold → Compared using two methods:
@@ -62,7 +68,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    
    👉 Insight: Both approaches produce consistent results: Sales = 122M, Profit = 12.2M, and Quantity Sold = 7.1K.
 
-6. Page 5 – Transaction Table
+### 4. Page 5 – Transaction Table
    ![Transaction Table](./Table%20visual.png)
    This page displays detailed transaction-level data in an interactive table.
    
@@ -81,7 +87,9 @@ insights into sales trends, profit, promotions, and product performance, serving
    
    👉 This table allows granular analysis down to individual transactions.
 
-🚀 Conclusion
+---
+
+## 🚀 Conclusion
 The dashboard delivers a complete overview of:
 - Sales distribution by city.
 - Promotion effectiveness based on discount categories.
