@@ -36,6 +36,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    - Average Discount by Promotion Categories → Average discount applied across different promotion types (Weekend Flash Sale, Clearance Sale, Summer Sale, etc.).
    - Profit vs Net Sales → Scatter plot showing correlation between profit and net sales.
    - Sales Trends by Period → Sales performance trend from 2020 to 2024.
+   
    👉 Insight: The Weekend Flash Sale promotion had the most significant impact on boosting sales.
 
 2. Page 2 – Top & Bottom 5 Products
@@ -43,6 +44,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    This page highlights best and worst performing products:
    - Top 5 Products by Sales, Quantity, Profit → Highest performing products.
    - Bottom 5 Products by Sales, Quantity, Profit → Lowest performing products.
+   
    👉 Insight:
    - Apple iPhone 14 dominates in sales, quantity, and profit.
    - Products like Tupperware Lunch Box and Nivea Body Lotion consistently appear among the bottom performers.
@@ -56,6 +58,7 @@ insights into sales trends, profit, promotions, and product performance, serving
         ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty.png)
      b. (Format Edit Interaction) → Generated through visual interaction with slicers.
         ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty2.png)
+   
    👉 Insight: Both approaches produce consistent results: Sales = 122M, Profit = 12.2M, and Quantity Sold = 7.1K.
 
 6. Page 5 – Transaction Table
@@ -72,6 +75,7 @@ insights into sales trends, profit, promotions, and product performance, serving
      - Discount, Discount Percentage
      - Net Sales, Price Per Unit, Profit
      - Total Sales, Units Sold
+   
    👉 This table allows granular analysis down to individual transactions.
 
 🚀 Conclusion
