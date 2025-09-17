@@ -39,7 +39,7 @@ insights into sales trends, profit, promotions, and product performance, serving
    👉 Insight: The Weekend Flash Sale promotion had the most significant impact on boosting sales.
 
 2. Page 2 – Top & Bottom 5 Products
-   ![Top & Bottom 5 Products](./Top_Bottom 5 Analysis.png)
+   ![Top & Bottom 5 Products](./Top_Bottom%205%20Analysis.png)
    This page highlights best and worst performing products:
    - Top 5 Products by Sales, Quantity, Profit → Highest performing products.
    - Bottom 5 Products by Sales, Quantity, Profit → Lowest performing products.
@@ -52,13 +52,13 @@ insights into sales trends, profit, promotions, and product performance, serving
    - Date Filters → Two date slicers to compare performance across different time periods.
    - Total Sales, Total Profit, Total Quantity Sold → Compared using two methods:
      a. (DAX Query) → Calculated directly with DAX formulas.
-        ![Comparison: Sales, Profit, Quantity](./Comparison Sales_Profit_Qty.png)
+        ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty.png)
      b. (Format Edit Interaction) → Generated through visual interaction with slicers.
-        ![Comparison: Sales, Profit, Quantity](./Comparison Sales_Profit_Qty2.png)
+        ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty2.png))
    👉 Insight: Both approaches produce consistent results: Sales = 122M, Profit = 12.2M, and Quantity Sold = 7.1K.
 
 6. Page 5 – Transaction Table
-   ![Transaction Table](./Table visual.png)
+   ![Transaction Table](./Table%20visual.png)
    This page displays detailed transaction-level data in an interactive table.
    a. Filters
      - Date → Filter transactions by time period.
