@@ -56,6 +56,7 @@ insights into sales trends, profit, promotions, and product performance, serving
 
      a. (DAX Query) → Calculated directly with DAX formulas.
         ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty.png)
+     
      b. (Format Edit Interaction) → Generated through visual interaction with slicers.
         ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty2.png)
    
@@ -64,11 +65,13 @@ insights into sales trends, profit, promotions, and product performance, serving
 6. Page 5 – Transaction Table
    ![Transaction Table](./Table%20visual.png)
    This page displays detailed transaction-level data in an interactive table.
+   
    a. Filters
      - Date → Filter transactions by time period.
      - Customer Name → View transactions by customer.
      - Product Name → Filter based on product type.
      - Promotion Name → Analyze transactions under specific promotions.
+
    b. Table Columns
      - CustomerID, Order ID, Product ID, Promotion ID
      - Date (dd/mm/yyyy)
