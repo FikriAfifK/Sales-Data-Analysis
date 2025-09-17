@@ -81,4 +81,5 @@ The dashboard delivers a complete overview of:
 - Top & bottom products in terms of sales, quantity, and profit.
 - Yearly sales trends for forecasting.
 - Detailed transactional insights for deeper analysis.
+
 With this dashboard, businesses can more easily identify top-performing products, evaluate promotional impact, and optimize future sales strategies.
