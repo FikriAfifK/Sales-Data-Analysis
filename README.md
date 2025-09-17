@@ -51,10 +51,11 @@ insights into sales trends, profit, promotions, and product performance, serving
    This page provides a comparison of key sales metrics:
    - Date Filters → Two date slicers to compare performance across different time periods.
    - Total Sales, Total Profit, Total Quantity Sold → Compared using two methods:
+
      a. (DAX Query) → Calculated directly with DAX formulas.
         ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty.png)
      b. (Format Edit Interaction) → Generated through visual interaction with slicers.
-        ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty2.png))
+        ![Comparison: Sales, Profit, Quantity](./Comparison%20Sales_Profit_Qty2.png)
    👉 Insight: Both approaches produce consistent results: Sales = 122M, Profit = 12.2M, and Quantity Sold = 7.1K.
 
 6. Page 5 – Transaction Table
@@ -72,3 +73,12 @@ insights into sales trends, profit, promotions, and product performance, serving
      - Net Sales, Price Per Unit, Profit
      - Total Sales, Units Sold
    👉 This table allows granular analysis down to individual transactions.
+
+🚀 Conclusion
+The dashboard delivers a complete overview of:
+- Sales distribution by city.
+- Promotion effectiveness based on discount categories.
+- Top & bottom products in terms of sales, quantity, and profit.
+- Yearly sales trends for forecasting.
+- Detailed transactional insights for deeper analysis.
+With this dashboard, businesses can more easily identify top-performing products, evaluate promotional impact, and optimize future sales strategies.
